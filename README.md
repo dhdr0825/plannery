@@ -42,8 +42,7 @@
 ### 3) 하이퍼링크 자동 생성
 * 플래너 이미지에서 OCR로 텍스트 좌표 추출
 * 텍스트 좌표의 결측치 자동 처리 : 사용자가 월/일 영역 지정 → 해당 영역의 좌표값 추출 → 결측치 자동 처리
-![image](https://github.com/dhdr0825/plannery/assets/65939582/e2c7cdbb-6785-41f4-824e-64502a5cce82)
-
+![제목을-입력해주세요_-001 (4)](https://github.com/dhdr0825/plannery/assets/65939582/aef75493-e93a-4477-9a07-9572d1de1b37)
 
 
 
