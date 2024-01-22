@@ -30,6 +30,7 @@
 ### 1) 플래너 자동 생성
 * 사용자가 선택한 서식에 따라 플래너 페이지 생성
 * 날짜/공휴일 자동 입력
+<br/>
 
 ![image](https://github.com/dhdr0825/plannery/assets/65939582/53f8dfd8-17da-4f6a-9b29-a5de90c0ca46)
 ![image](https://github.com/dhdr0825/plannery/assets/65939582/7f9bf832-4e93-424a-a9ff-7cf3404fae77)
@@ -37,6 +38,8 @@
 ### 2) 플래너 서식 수정
 
 * 캔버스의 여백, 선색, 채우기 색, 텍스트 색, 폰트 등을 수정 가능
+<br/>
+
 ![image](https://github.com/dhdr0825/plannery/assets/65939582/3a3d8325-b0b2-4109-b341-c33e9428103e)
 
 ### 3) 하이퍼링크 자동 생성
