@@ -48,7 +48,7 @@
 <br/>
 
 ![image](https://github.com/dhdr0825/plannery/assets/65939582/fcd95384-066b-432a-809e-9b22ea7cfa46)
-![제목을-입력해주세요_-001 (4)](https://github.com/dhdr0825/plannery/assets/65939582/aef75493-e93a-4477-9a07-9572d1de1b37)
+![제목을-입력해주세요_-001 (4)](https://github.com/dhdr0825/plannery/assets/65939582/613e5938-4c1f-492e-b9bf-7ab20dc6aec7)
 
 
 
