@@ -44,8 +44,9 @@
 * 날짜/공휴일 자동 입력
 <br/>
 
-![image](https://github.com/dhdr0825/plannery/assets/65939582/53f8dfd8-17da-4f6a-9b29-a5de90c0ca46)
-![image](https://github.com/dhdr0825/plannery/assets/65939582/7f9bf832-4e93-424a-a9ff-7cf3404fae77)
+![image](https://github.com/dhdr0825/plannery/assets/65939582/06d2e81b-e54f-468c-9353-a93976fbbac3)
+![image](https://github.com/dhdr0825/plannery/assets/65939582/53d285ec-812b-45c6-9f24-93c3c24104e7)
+
 
 ### 2) 플래너 서식 수정
 
