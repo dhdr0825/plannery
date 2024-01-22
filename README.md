@@ -27,7 +27,7 @@
 <br/>
 
 ## 수행결과
-* 플래너리에서 제공하는 기본 서식
+### 플래너리에서 제공하는 기본 서식
 ![image](https://github.com/dhdr0825/plannery/assets/65939582/53f8dfd8-17da-4f6a-9b29-a5de90c0ca46)
 ![image](https://github.com/dhdr0825/plannery/assets/65939582/7f9bf832-4e93-424a-a9ff-7cf3404fae77)
 
