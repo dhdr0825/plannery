@@ -26,6 +26,18 @@
 * 하이퍼링크 자동 생성 기능 제공
 <br/>
 
+## 개발환경
+### 개발도구
+* Visual Studio Code
+
+### 개발언어
+* 프론트엔드 : HTML, CSS
+* 백엔드 : JavaScript, Python
+
+### API
+* Google Cloud Vision API – OCR
+<br/>
+
 ## 수행결과
 ### 1) 플래너 자동 생성
 * 사용자가 선택한 서식에 따라 플래너 페이지 생성
